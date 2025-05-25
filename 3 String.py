@@ -12,3 +12,7 @@ print('Nick\'s Shop')
 # Contoh lain yang lebih kompleks
 store = 'Nick\'s Pizza Shop, the "Best" there is'
 print(store)
+
+# Exercise
+movie = 'Spiderman: "Home Coming"'
+print(movie)
